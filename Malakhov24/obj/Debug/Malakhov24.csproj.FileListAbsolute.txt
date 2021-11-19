@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Malakhov24\Malakhov24\bin\Debug\Malakhov24.exe.config
+C:\Users\student\source\repos\Malakhov24\Malakhov24\bin\Debug\Malakhov24.exe
+C:\Users\student\source\repos\Malakhov24\Malakhov24\bin\Debug\Malakhov24.pdb
+C:\Users\student\source\repos\Malakhov24\Malakhov24\obj\Debug\Malakhov24.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Malakhov24\Malakhov24\obj\Debug\Malakhov24.Form1.resources
+C:\Users\student\source\repos\Malakhov24\Malakhov24\obj\Debug\Malakhov24.Properties.Resources.resources
+C:\Users\student\source\repos\Malakhov24\Malakhov24\obj\Debug\Malakhov24.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Malakhov24\Malakhov24\obj\Debug\Malakhov24.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Malakhov24\Malakhov24\obj\Debug\Malakhov24.exe
+C:\Users\student\source\repos\Malakhov24\Malakhov24\obj\Debug\Malakhov24.pdb
