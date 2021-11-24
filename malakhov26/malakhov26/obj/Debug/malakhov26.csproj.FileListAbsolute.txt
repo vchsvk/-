@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\malakhov26\malakhov26\bin\Debug\malakhov26.exe.config
+C:\Users\student\source\repos\malakhov26\malakhov26\bin\Debug\malakhov26.exe
+C:\Users\student\source\repos\malakhov26\malakhov26\bin\Debug\malakhov26.pdb
+C:\Users\student\source\repos\malakhov26\malakhov26\obj\Debug\malakhov26.csprojAssemblyReference.cache
+C:\Users\student\source\repos\malakhov26\malakhov26\obj\Debug\malakhov26.Form1.resources
+C:\Users\student\source\repos\malakhov26\malakhov26\obj\Debug\malakhov26.Properties.Resources.resources
+C:\Users\student\source\repos\malakhov26\malakhov26\obj\Debug\malakhov26.csproj.GenerateResource.cache
+C:\Users\student\source\repos\malakhov26\malakhov26\obj\Debug\malakhov26.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\malakhov26\malakhov26\obj\Debug\malakhov26.exe
+C:\Users\student\source\repos\malakhov26\malakhov26\obj\Debug\malakhov26.pdb
