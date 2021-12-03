@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\bin\Debug\BMI калькулятор malakhov.exe.config
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\bin\Debug\BMI калькулятор malakhov.exe
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\bin\Debug\BMI калькулятор malakhov.pdb
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\obj\Debug\BMI калькулятор malakhov.csprojAssemblyReference.cache
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\obj\Debug\BMI_калькулятор_malakhov.Form1.resources
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\obj\Debug\BMI_калькулятор_malakhov.Properties.Resources.resources
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\obj\Debug\BMI калькулятор malakhov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\obj\Debug\BMI калькулятор malakhov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\obj\Debug\BMI калькулятор malakhov.exe
+C:\Users\student\source\repos\BMI калькулятор malakhov\BMI калькулятор malakhov\obj\Debug\BMI калькулятор malakhov.pdb
