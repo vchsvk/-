@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\bin\Debug\malakhov15.1.exe.config
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\bin\Debug\malakhov15.1.exe
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\bin\Debug\malakhov15.1.pdb
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\obj\Debug\malakhov15.1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\obj\Debug\malakhov15._1.Form1.resources
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\obj\Debug\malakhov15._1.Properties.Resources.resources
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\obj\Debug\malakhov15.1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\obj\Debug\malakhov15.1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\obj\Debug\malakhov15.1.exe
+C:\Users\student\source\repos\malakhov15.1\malakhov15.1\obj\Debug\malakhov15.1.pdb
