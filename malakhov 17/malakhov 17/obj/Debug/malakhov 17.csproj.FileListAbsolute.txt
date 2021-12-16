@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\malakhov 17\malakhov 17\bin\Debug\malakhov 17.exe.config
+C:\Users\student\source\repos\malakhov 17\malakhov 17\bin\Debug\malakhov 17.exe
+C:\Users\student\source\repos\malakhov 17\malakhov 17\bin\Debug\malakhov 17.pdb
+C:\Users\student\source\repos\malakhov 17\malakhov 17\obj\Debug\malakhov 17.csprojAssemblyReference.cache
+C:\Users\student\source\repos\malakhov 17\malakhov 17\obj\Debug\malakhov_17.Form1.resources
+C:\Users\student\source\repos\malakhov 17\malakhov 17\obj\Debug\malakhov_17.Properties.Resources.resources
+C:\Users\student\source\repos\malakhov 17\malakhov 17\obj\Debug\malakhov 17.csproj.GenerateResource.cache
+C:\Users\student\source\repos\malakhov 17\malakhov 17\obj\Debug\malakhov 17.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\malakhov 17\malakhov 17\obj\Debug\malakhov 17.exe
+C:\Users\student\source\repos\malakhov 17\malakhov 17\obj\Debug\malakhov 17.pdb
